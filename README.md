@@ -1,2 +1,1 @@
-# logistics-petstore-api
-"Additional information about the repository."
+# "Additional information about the repository."
